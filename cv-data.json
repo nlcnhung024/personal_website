@@ -1,0 +1,21 @@
+{
+  "name": "Your Name",
+  "title": "Data Analyst",
+  "summary": "Brief professional summary goes here.",
+  "education": [
+    {
+      "degree": "B.Sc. in Data Science",
+      "institution": "University Name",
+      "year": "2023"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Data Analyst",
+      "company": "Company Name",
+      "duration": "2023 - Present",
+      "details": "Key responsibilities and achievements."
+    }
+  ],
+  "skills": ["Python", "SQL", "Tableau", "Excel"]
+}
